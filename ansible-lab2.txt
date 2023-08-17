@@ -1,0 +1,5 @@
+Day2
+
+
+
+Install sonarqube using ansible role https://devopscube.com/how-to-install-latest-sonatype-nexus-3-on-linux/ on a public ec2 then access it from a browser
